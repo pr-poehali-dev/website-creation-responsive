@@ -19,7 +19,7 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
               alt="Логотип" 
               className="h-10 w-10 lg:h-12 lg:w-12 rounded-lg object-cover"
             />
-            <span className="text-lg lg:text-xl font-semibold">А. Иванов</span>
+            <span className="text-lg lg:text-xl font-semibold">А. Иванова</span>
           </div>
 
           <button 

@@ -13,7 +13,7 @@ export default function HomePage() {
           />
           
           <h1 className="text-3xl lg:text-5xl font-bold mb-2 text-primary">
-            Иванов Алексей Владимирович
+            Иванова Анна Владимировна
           </h1>
         </div>
 
@@ -49,7 +49,7 @@ export default function HomePage() {
             О себе
           </h3>
           <p className="text-base lg:text-lg text-muted-foreground leading-relaxed">
-            Студент с активной жизненной позицией, увлекающийся современными технологиями 
+            Студентка с активной жизненной позицией, увлекающаяся современными технологиями 
             и разработкой программного обеспечения. Стремлюсь к постоянному развитию 
             и получению новых знаний в области IT.
           </p>
@@ -64,10 +64,10 @@ export default function HomePage() {
             <div className="flex items-center gap-3">
               <Icon name="Mail" size={20} className="text-accent" />
               <a 
-                href="mailto:ivanov.alex@example.com" 
+                href="mailto:ivanova.anna@example.com" 
                 className="text-base lg:text-lg text-accent hover:underline"
               >
-                ivanov.alex@example.com
+                ivanova.anna@example.com
               </a>
             </div>
             <div className="flex flex-wrap gap-4">
